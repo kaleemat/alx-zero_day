@@ -1,1 +1,1 @@
-My first readme
+I hope i get to finish this course
